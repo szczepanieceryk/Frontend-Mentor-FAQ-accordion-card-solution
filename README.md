@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://szczepanieceryk.github.io/Frontend-Mentor-FAQ-accordion-card-solution/)
+- Live Site URL: (https://szczepanieceryk.github.io/Frontend-Mentor-FAQ-accordion-card-solution/)
 
 ## My process
 
