@@ -1,0 +1,86 @@
+
+.App {
+  padding: 120px 0;
+  font-size: 12px;
+  background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+  .faq-card-wrapper{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px auto;
+    padding: 20px 0;
+    width: 90%;
+    border-radius: 20px;
+    background-color: #fff;
+    .title{
+      margin: 0 auto;
+      padding-top: 120px;     
+      flex-basis: 100%;
+      font-size: 30px;
+      font-weight: bold;
+      text-align: center;
+    }
+   
+    .questions-and-answers{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      min-width: 280px;
+      padding: 15px 15px 20px;
+
+      .answer{
+        display: none;
+        margin: 15px 0;
+        flex-basis: 90%;
+        color: hsl(240, 6%, 50%);
+      }
+      .answer.active{
+        display: flex;
+      }
+      .question{
+        line-height: 1;
+        flex-basis: 90%;
+        cursor: pointer;
+        transition: .3s;
+      }
+      .question:hover{
+        color: hsl(14, 88%, 65%);
+      }
+      .question.active{
+        font-weight: bold;
+      }
+      
+      .arrow-down-icon {
+        vertical-align: middle;
+        cursor: pointer;
+      }
+      .arrow-down-icon.active{
+        transform: rotate(180deg);
+      }
+      .divider{
+        color: hsl(240, 4%, 91%);
+        flex-basis: 100%;
+      }
+      
+    }
+    .image-wrapper{
+      position: absolute;
+      left: 20px;
+      top:-106px;
+      height: 210px;
+      text-align: center;
+      .svg-image{
+        display: block;
+      }
+      .bgc-pattern{
+        transform: translate(12px,-90px);
+      }
+    }
+   
+    
+  }
+  
+  .attribution { font-size: 11px; text-align: center; margin: 60px 0 20px; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+
+}
