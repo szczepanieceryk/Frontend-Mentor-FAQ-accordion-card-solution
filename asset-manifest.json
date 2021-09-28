@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Frontend-Mentor-FAQ-accordion-card-solution/static/css/main.74b94215.chunk.css",
+    "main.js": "/Frontend-Mentor-FAQ-accordion-card-solution/static/js/main.394b6338.chunk.js",
+    "main.js.map": "/Frontend-Mentor-FAQ-accordion-card-solution/static/js/main.394b6338.chunk.js.map",
+    "runtime-main.js": "/Frontend-Mentor-FAQ-accordion-card-solution/static/js/runtime-main.fe05bf54.js",
+    "runtime-main.js.map": "/Frontend-Mentor-FAQ-accordion-card-solution/static/js/runtime-main.fe05bf54.js.map",
+    "static/js/2.635055b3.chunk.js": "/Frontend-Mentor-FAQ-accordion-card-solution/static/js/2.635055b3.chunk.js",
+    "static/js/2.635055b3.chunk.js.map": "/Frontend-Mentor-FAQ-accordion-card-solution/static/js/2.635055b3.chunk.js.map",
+    "index.html": "/Frontend-Mentor-FAQ-accordion-card-solution/index.html",
+    "static/css/main.74b94215.chunk.css.map": "/Frontend-Mentor-FAQ-accordion-card-solution/static/css/main.74b94215.chunk.css.map",
+    "static/js/2.635055b3.chunk.js.LICENSE.txt": "/Frontend-Mentor-FAQ-accordion-card-solution/static/js/2.635055b3.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-mobile.55aee912.svg": "/Frontend-Mentor-FAQ-accordion-card-solution/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/illustration-woman-online-mobile.0ec5a893.svg": "/Frontend-Mentor-FAQ-accordion-card-solution/static/media/illustration-woman-online-mobile.0ec5a893.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe05bf54.js",
+    "static/js/2.635055b3.chunk.js",
+    "static/css/main.74b94215.chunk.css",
+    "static/js/main.394b6338.chunk.js"
+  ]
+}
