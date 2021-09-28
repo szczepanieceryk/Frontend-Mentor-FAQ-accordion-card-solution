@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://szczepanieceryk.github.io/Frontend-Mentor-FAQ-accordion-card-solution/)
 
 ## My process
 
@@ -42,5 +42,4 @@ I want to continue focusing on flex layouts in future projects.
 ## Author
 
 - Website - [Eryk Szczepaniec](https://github.com/szczepanieceryk)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@szczepanieceryk](https://www.frontendmentor.io/profile/szczepanieceryk)
