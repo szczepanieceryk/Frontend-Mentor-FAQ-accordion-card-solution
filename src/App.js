@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 import FaqComponent from './FaqComponent';
 
-import svgImage from './images/illustration-woman-online-mobile.svg'
-import bgcPattern from './images/bg-pattern-mobile.svg'
+import svgImage from './images/illustration-woman-online-mobile.svg';
+import bgcPattern from './images/bg-pattern-mobile.svg';
+
 import './App.scss';
 
 const questionsAndAnswers = [
@@ -47,9 +48,8 @@ const App = () => {
           <img className="svg-image" src={svgImage} alt="" />
           <img className="bgc-pattern" src={bgcPattern} alt="" />
         </div>
-
-        <span className="title">FAQ</span>
         <div className="questions-and-answers">
+          <span className="title">FAQ</span>
           {component}
         </div>
       </div>
